@@ -9,6 +9,7 @@ following:
 -Part 4 : (Inserting images )
 -Part 5 : (implementation of part 1, 2, 3 and 4 and using inline css simple)
 -Part 6 : (using lists -ordered and unordered)
+-Part 7 : (implementation of styles, difference between inline and internal css)
 
 Note: Each part follows all concepts of its prequel so there is implementaion of prev one automatically in next one 
 
